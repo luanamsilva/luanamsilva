@@ -6,11 +6,6 @@
 - 📫 Contate-me no email: luanamoura2002@yahoo.com.br
 
 
-<a href="https://github.com/luanamsilva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luanamsilva&theme=dracula&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanamsilva&layout=compact&theme=dracula"/>
-<div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
