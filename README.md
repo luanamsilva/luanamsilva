@@ -2,7 +2,6 @@
 
 
 - 🔭 Desenvolvedora web
-- 🌱 Atualmente estou estudando ReactJs
 - 📫 Contate-me no email: luanamoura2002@yahoo.com.br
 
 
