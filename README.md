@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Luana Moura 👋
 
 
-- 🔭 Desenvolvedora web
-- 📫 Contate-me no email: luanamoura2002@yahoo.com.br
+ 🔭 Desenvolvedora web
+
 
 
 <div style="display: inline_block"><br>
